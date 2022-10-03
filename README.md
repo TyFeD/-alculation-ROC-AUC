@@ -1,3 +1,3 @@
-# Сalculation ROC-AUC
+# Задание
 
 ![text](photo_2022-08-15_19-06-09.jpg)
